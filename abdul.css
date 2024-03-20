@@ -1,0 +1,27 @@
+body{
+   background-color:rgb(42, 248, 152);
+}
+h1{
+    text-shadow: 5px 5px 5px rgb(247, 242, 242);
+}
+.one{
+    font-size: 40px;
+    font:black;
+    color: aliceblue;
+    text-align: center;
+}
+.three{
+    margin :100px 160px;
+    background-color: rgb(3, 214, 116);
+    padding: 30px 60px;
+    box-shadow: 10px 10px 5px rgb(208, 252, 121);
+ 
+    
+}
+.four{
+    color:rgb(11, 11, 11);
+    text-align: center;
+}
+.two{
+    line-height: 2.0;
+}
